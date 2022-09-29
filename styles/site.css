@@ -391,8 +391,11 @@ nav{
   
   footer address{
   padding-top: 20px;
-  
-  
+  }
+
+  .paper-img{
+    width:60%;
+    height:60%;
   }
   
   .work-intro p{
