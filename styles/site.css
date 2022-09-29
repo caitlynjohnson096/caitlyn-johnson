@@ -400,8 +400,8 @@ nav{
   }
 
   .paper-img img{
-    width:60%;
-    height:60%;
+    width:100px;
+    height: 200px;
   }
   
   .work-intro p{
