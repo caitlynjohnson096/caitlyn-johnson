@@ -388,12 +388,18 @@ nav{
   text-align: center;
   
   }
-  
+  iframe{
+    display: block; 
+    width: 100%; 
+    border: none; 
+    overflow-y: auto; 
+    overflow-x: hidden;
+  }
   footer address{
   padding-top: 20px;
   }
 
-  .paper-img{
+  .paper-img img{
     width:60%;
     height:60%;
   }
