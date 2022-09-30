@@ -403,7 +403,10 @@ nav{
   .paper-img img{
     width:200px;
     height: 300px;
-    border:2px  black solid;
+    border:1px  black solid;
+    margin: 100px;
+  }
+  .paper-img p{
     margin: 100px;
   }
   
