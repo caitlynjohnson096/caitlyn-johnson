@@ -401,9 +401,13 @@ nav{
   }
 
   .paper-img img{
-    width:400px;
-    height: 500px;
-    border:2px  black solid;
+    width:200px;
+    height: 300px;
+    border:8px  black solid;
+  }
+  
+  .paper-img{
+    border:8px  black solid;
   }
   
   .work-intro p{
