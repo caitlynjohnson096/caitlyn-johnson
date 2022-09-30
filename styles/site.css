@@ -404,7 +404,7 @@ nav{
     width:200px;
     height: 300px;
     border:1px  black solid;
-    margin: 100px;
+    margin-left: 100px;
   }
   .paper-img p{
     margin-left: 100px;
