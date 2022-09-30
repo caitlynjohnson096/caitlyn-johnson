@@ -401,8 +401,9 @@ nav{
   }
 
   .paper-img img{
-    width:500px;
-    height: 700px;
+    width:400px;
+    height: 500px;
+    border:2px  black solid;
   }
   
   .work-intro p{
