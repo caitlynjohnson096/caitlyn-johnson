@@ -407,7 +407,8 @@ nav{
     margin: 100px;
   }
   .paper-img p{
-    margin: 100px;
+    margin-left: 100px;
+    font: black;
   }
   
  
