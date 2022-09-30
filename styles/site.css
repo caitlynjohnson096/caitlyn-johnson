@@ -403,12 +403,11 @@ nav{
   .paper-img img{
     width:200px;
     height: 300px;
-    border:8px  black solid;
+    border:4px  black solid;
+    margin: 50px;
   }
   
-  .paper-img{
-    border:8px  black solid;
-  }
+ 
   
   .work-intro p{
     color: black;
