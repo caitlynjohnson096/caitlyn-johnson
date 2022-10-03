@@ -115,6 +115,11 @@ nav{
     height: 200px;
     }
   
+    .project-cards img:hover {
+      width: 475px;
+      height: 225px;
+    }
+  
   
   .card1{
     padding:0px;
