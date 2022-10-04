@@ -115,6 +115,12 @@ nav{
     height: 65%;
     margin-left: 80px;
   }
+
+  .projects img:on-hover{
+    /* border: 4px black solid; */
+    width: 90%;
+    height: 70%;
+  }
   
   .project-cards img{
     width: 450px;
